@@ -1,0 +1,16 @@
+[
+{
+  "modid": "unsuckpvp",
+  "name": "UnsuckPvP",
+  "description": "Unsucking this 1.8 shit pvp, rip",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["viniciusroger"],
+  "credits": "manuthebyte for forge 1.8.9 mixin template",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

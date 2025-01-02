@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "me.viniciusroger.unsuckpvp.mixin.impl",
+	"refmap": "refmap.unsuckpvp.json",
+	"compatibilityLevel": "JAVA_8",
+	"client": [
+		"MixinMinecraft",
+		"MixinEntityLivingBase"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
